@@ -1,6 +1,6 @@
-9fad3616774648506cba197448b79a18 *DESCRIPTION
-edacb56e42d2ddb5c3b30ace61f93bd4 *NAMESPACE
-af63eb6cd484446b423d62448198dea6 *NEWS.md
+d36f1f132d3f1964726e9bc6f8492f08 *DESCRIPTION
+0c027d80118ab47f3f7c0c3ed3ece596 *NAMESPACE
+3dd52ce52aaff0908b2d0b97b2ef7099 *NEWS.md
 37186f6d3457948f235cb8ebf7169f8a *R/animals_score.R
 a8c6109b2b1c4fc517c03b7551a9cafe *R/assign_topic.R
 55a9a41c1882b7605fdf9da0300d0cf3 *R/biomarker_score.R
@@ -17,11 +17,11 @@ c22c04f784697d494fa5b9ec751c593f *R/df_operations_combine_addtopic_subsetmir.R
 85616f5ff3076af4e99391eb6d16875c *R/df_panc.R
 cbba37173f9c83ee8e3f9e894cade0f0 *R/df_test.R
 8713198cde79281f15d58b7095097b96 *R/distinct_shared_mir.R
-dc689cc35eee16f236c43728284c4783 *R/extract_mir.R
+fc5ac6b1847851c92b55f0fdbe38a4ea *R/extract_mir.R
 a15a507a4ccfab1b78f17619cd62a9cd *R/generate_stopwords.R
 94f76d2a8674644f5d118512f5732b76 *R/get_mir_vec.R
 4dfe2ed5fcc94ec93e58b278ffebd42d *R/get_pmid.R
-a59426d95249882b8f2da8600f6e0580 *R/globals.R
+58b3c49e7e9de3bb82a47c3428e424d2 *R/globals.R
 552c41fc7d9f6135597f059ba69f9cd0 *R/helper_calculate_score.R
 9316051b02e3e45d9c409664a16c4571 *R/helper_control_shared_mir.R
 9024820ebdfd5e76f36af79c74123fa1 *R/join_mirtarbase.R
@@ -42,7 +42,7 @@ a60f2de95febba67ba46eeaef022ca3a *R/subset_mir.R
 7985cf6e60eedd24c9b94c2fe1cce682 *R/tfidf_words.R
 8965ff8d306f3235f767ef1a53bbf233 *R/top_words_count_words_helper.R
 52d7c164e9c32f0a95872cf999c45607 *R/wordcloud.R
-14179c7b66ecc32ea94dee1bec8a54e6 *README.md
+d87b8ae8ac8503d5249866202afc4a6a *README.md
 d463630aaef323f1addea975002971c3 *data/df_crc.rda
 aba72cd892a953e6e7312fb52522be57 *data/df_mirtarbase.rda
 7581dc024dff071da0463d736cc7baed *data/df_panc.rda
