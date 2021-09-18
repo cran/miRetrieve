@@ -1,6 +1,6 @@
-d36f1f132d3f1964726e9bc6f8492f08 *DESCRIPTION
+228277d8fe620a8f572d6f1405ce658b *DESCRIPTION
 0c027d80118ab47f3f7c0c3ed3ece596 *NAMESPACE
-3dd52ce52aaff0908b2d0b97b2ef7099 *NEWS.md
+bdbec1c1513b51822f2f098163df56fd *NEWS.md
 37186f6d3457948f235cb8ebf7169f8a *R/animals_score.R
 a8c6109b2b1c4fc517c03b7551a9cafe *R/assign_topic.R
 55a9a41c1882b7605fdf9da0300d0cf3 *R/biomarker_score.R
@@ -27,7 +27,7 @@ a15a507a4ccfab1b78f17619cd62a9cd *R/generate_stopwords.R
 9024820ebdfd5e76f36af79c74123fa1 *R/join_mirtarbase.R
 ff4d50f19922f27984904717b5c9fba8 *R/join_targets.R
 6e518d3742ac8c8d7f6992d3062b0d6a *R/lda_miretrieve.R
-c8d691641e233ec185ef4ab87ad37db7 *R/load_and_save_files.R
+837839f43434983c75947502d7dc0edd *R/load_and_save_files.R
 d12a3109511435b36656e9d63aa96b83 *R/mirna_year_new_and_trend.R
 9c2d4a7f8e625a399a8a34ea73d4389a *R/patients_score.R
 52e1dd447ce37f6f75b7391d66ed5eb0 *R/polymorphism.R
@@ -113,7 +113,7 @@ f9ff3f8f5f08365ee8881cfb92a64f94 *man/plot_wordcloud.Rd
 175d5ed0ffe0048ff044d0e0a37ecda3 *man/read_pubmed.Rd
 83023ece282d4cbc97d3ea269df80fd7 *man/read_pubmed_jats.Rd
 1227fc047c20c44e5f6fbc57d7ec2382 *man/save_excel.Rd
-5c56a9ed9e205237104c6b0891f946a1 *man/save_plot.Rd
+b6010f9c462dabcb250be2c770c8c13f *man/save_plot.Rd
 22672ede9079b1bfc0c98791e9d71c9a *man/stopwords_2gram.Rd
 59f6995668a5a446c7ead33316e672fa *man/stopwords_miretrieve.Rd
 36d17e9ca812e05ad9e766e790c23e47 *man/stopwords_pubmed.Rd
